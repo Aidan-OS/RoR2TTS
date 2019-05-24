@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OneDrive\\Documents\\University\\Coding\\TextToSpeechRoR2\\TextToSpeechRoR2\\TextToSpeechRoR2.csproj": {}
+  },
+  "projects": {
+    "E:\\OneDrive\\Documents\\University\\Coding\\TextToSpeechRoR2\\TextToSpeechRoR2\\TextToSpeechRoR2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\University\\Coding\\TextToSpeechRoR2\\TextToSpeechRoR2\\TextToSpeechRoR2.csproj",
+        "projectName": "TextToSpeechRoR2",
+        "projectPath": "E:\\OneDrive\\Documents\\University\\Coding\\TextToSpeechRoR2\\TextToSpeechRoR2\\TextToSpeechRoR2.csproj",
+        "packagesPath": "C:\\Users\\NehNe\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\University\\Coding\\TextToSpeechRoR2\\TextToSpeechRoR2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NehNe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
